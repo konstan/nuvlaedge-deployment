@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nuvlaedge:
+  - apiVersion: v2
+    appVersion: 2.8.5
+    created: "2023-06-05T11:40:40.679596145Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ab2aeb06783a60b7da831f03e48824bbbb6055388acb358a6a35eec6a526a81
+    name: nuvlaedge
+    type: application
+    urls:
+    - https://github.com/konstan/nuvlaedge-deployment/releases/download/nuvlaedge-2.8.5/nuvlaedge-2.8.5.tgz/nuvlaedge-2.8.5.tgz
+    version: 2.8.5
+generated: "2023-06-05T11:40:40.676878677Z"
